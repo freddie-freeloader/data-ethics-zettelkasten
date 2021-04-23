@@ -1,4 +1,4 @@
-# Overwiew by journal / blog / newsletter
+# Overwiew by journal / blog / newspaper
 
 ## PLOS One
 
