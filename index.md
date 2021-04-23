@@ -8,9 +8,9 @@ For an access structuring the Zettelkasten by author: [[by_author]]#
 
 For an access structuring the Zettelkasten by country: [[by_country]]#
 
-## By journal / blog / newsletter
+## By journal / blog / newspaper
 
-For an access structuring the Zettelkasten by journal / blog / newsletter: [[by_journal]]#
+For an access structuring the Zettelkasten by journal / blog / newspaper: [[by_journal]]#
 
 ## By NGO
 
