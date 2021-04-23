@@ -6,6 +6,8 @@ Access articles sorted by their country of origin.
 
 ## UK
 
-## Germany
+## EU
+
+### Germany
 
 ## China
