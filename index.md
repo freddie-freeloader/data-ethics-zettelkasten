@@ -1,5 +1,9 @@
 # Index
 
+## By topic
+
+For an access structuring the Zettelkasten by topic: [[by_topic]]#
+
 ## By author
 
 For an access structuring the Zettelkasten by author: [[by_author]]#
